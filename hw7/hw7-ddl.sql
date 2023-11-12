@@ -55,9 +55,7 @@ INSERT INTO skills (id, name, description, tag, url, time_commitment)
     (5,'Napping', 'Strategic naps to reenergize', 'Skill 5', 'https://example.com/napping', 50),
     (6,'Green Thumb', 'Ability to nuture and grow plants', 'Skill 6', 'https://example.com/plants', 100),
     (7,'Public Speaking', 'Can speak to large groups of people without getting nervous', 'Skill 7', 'https://example.com/speaking', 60),
-    (8,'Honey Making', 'Spreading joy and honey.', 'Skill 8', 'https://example.com/bee_knighting', 80),
-    (9,'Singing', 'Entertaining with your voice', 'Skill 9', 'https://example.com/entertainer', 70),
-    (10,'Painting', 'Using paint and shapes to create art', 'Skill 10', 'https://example.com/artistry', 120)
+    (8,'Honey Making', 'Spreading joy and honey.', 'Skill 8', 'https://example.com/bee_knighting', 80)
     ;
 
 # Section 4
